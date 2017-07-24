@@ -1,0 +1,4 @@
+Make a small buffer
+Use the write syscall to print out stuff.
+use shift registers etc. to make "interesting" ascii art.
+Rely on fixed-memory length buffers, not zero-terminated (since zero character could be legal)
